@@ -1,0 +1,14 @@
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLibro\bin\Debug\net9.0\EsercizioLibro.exe
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLibro\bin\Debug\net9.0\EsercizioLibro.deps.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLibro\bin\Debug\net9.0\EsercizioLibro.runtimeconfig.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLibro\bin\Debug\net9.0\EsercizioLibro.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLibro\bin\Debug\net9.0\EsercizioLibro.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLibro\obj\Debug\net9.0\EsercizioLibro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLibro\obj\Debug\net9.0\EsercizioLibro.AssemblyInfoInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLibro\obj\Debug\net9.0\EsercizioLibro.AssemblyInfo.cs
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLibro\obj\Debug\net9.0\EsercizioLibro.csproj.CoreCompileInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLibro\obj\Debug\net9.0\EsercizioLibro.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLibro\obj\Debug\net9.0\refint\EsercizioLibro.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLibro\obj\Debug\net9.0\EsercizioLibro.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLibro\obj\Debug\net9.0\EsercizioLibro.genruntimeconfig.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLibro\obj\Debug\net9.0\ref\EsercizioLibro.dll
