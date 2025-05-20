@@ -1,0 +1,14 @@
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLoginCalcolatrice\bin\Debug\net9.0\EsercizioLoginCalcolatrice.exe
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLoginCalcolatrice\bin\Debug\net9.0\EsercizioLoginCalcolatrice.deps.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLoginCalcolatrice\bin\Debug\net9.0\EsercizioLoginCalcolatrice.runtimeconfig.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLoginCalcolatrice\bin\Debug\net9.0\EsercizioLoginCalcolatrice.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLoginCalcolatrice\bin\Debug\net9.0\EsercizioLoginCalcolatrice.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLoginCalcolatrice\obj\Debug\net9.0\EsercizioLoginCalcolatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLoginCalcolatrice\obj\Debug\net9.0\EsercizioLoginCalcolatrice.AssemblyInfoInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLoginCalcolatrice\obj\Debug\net9.0\EsercizioLoginCalcolatrice.AssemblyInfo.cs
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLoginCalcolatrice\obj\Debug\net9.0\EsercizioLoginCalcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLoginCalcolatrice\obj\Debug\net9.0\EsercizioLoginCalcolatrice.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLoginCalcolatrice\obj\Debug\net9.0\refint\EsercizioLoginCalcolatrice.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLoginCalcolatrice\obj\Debug\net9.0\EsercizioLoginCalcolatrice.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLoginCalcolatrice\obj\Debug\net9.0\EsercizioLoginCalcolatrice.genruntimeconfig.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi20maggio\EsercizioLoginCalcolatrice\obj\Debug\net9.0\ref\EsercizioLoginCalcolatrice.dll
