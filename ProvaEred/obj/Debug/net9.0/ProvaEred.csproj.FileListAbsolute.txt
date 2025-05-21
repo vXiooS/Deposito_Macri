@@ -1,0 +1,14 @@
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\ProvaEred\bin\Debug\net9.0\ProvaEred.exe
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\ProvaEred\bin\Debug\net9.0\ProvaEred.deps.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\ProvaEred\bin\Debug\net9.0\ProvaEred.runtimeconfig.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\ProvaEred\bin\Debug\net9.0\ProvaEred.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\ProvaEred\bin\Debug\net9.0\ProvaEred.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\ProvaEred\obj\Debug\net9.0\ProvaEred.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\ProvaEred\obj\Debug\net9.0\ProvaEred.AssemblyInfoInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\ProvaEred\obj\Debug\net9.0\ProvaEred.AssemblyInfo.cs
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\ProvaEred\obj\Debug\net9.0\ProvaEred.csproj.CoreCompileInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\ProvaEred\obj\Debug\net9.0\ProvaEred.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\ProvaEred\obj\Debug\net9.0\refint\ProvaEred.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\ProvaEred\obj\Debug\net9.0\ProvaEred.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\ProvaEred\obj\Debug\net9.0\ProvaEred.genruntimeconfig.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\ProvaEred\obj\Debug\net9.0\ref\ProvaEred.dll
