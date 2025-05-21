@@ -1,0 +1,14 @@
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVeicolo\bin\Debug\net9.0\EsercizioVeicolo.exe
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVeicolo\bin\Debug\net9.0\EsercizioVeicolo.deps.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVeicolo\bin\Debug\net9.0\EsercizioVeicolo.runtimeconfig.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVeicolo\bin\Debug\net9.0\EsercizioVeicolo.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVeicolo\bin\Debug\net9.0\EsercizioVeicolo.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVeicolo\obj\Debug\net9.0\EsercizioVeicolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVeicolo\obj\Debug\net9.0\EsercizioVeicolo.AssemblyInfoInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVeicolo\obj\Debug\net9.0\EsercizioVeicolo.AssemblyInfo.cs
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVeicolo\obj\Debug\net9.0\EsercizioVeicolo.csproj.CoreCompileInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVeicolo\obj\Debug\net9.0\EsercizioVeicolo.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVeicolo\obj\Debug\net9.0\refint\EsercizioVeicolo.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVeicolo\obj\Debug\net9.0\EsercizioVeicolo.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVeicolo\obj\Debug\net9.0\EsercizioVeicolo.genruntimeconfig.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVeicolo\obj\Debug\net9.0\ref\EsercizioVeicolo.dll
