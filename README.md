@@ -1,2 +1,2 @@
 # Deposito_Macri
-Deposito degli esercizi
+Deposito degli esercizi del corso CSharp
