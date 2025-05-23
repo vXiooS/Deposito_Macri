@@ -1,0 +1,14 @@
+C:\Users\zxioo\Desktop\Test23Maggio\EsTest2\bin\Debug\net9.0\EsTest2.exe
+C:\Users\zxioo\Desktop\Test23Maggio\EsTest2\bin\Debug\net9.0\EsTest2.deps.json
+C:\Users\zxioo\Desktop\Test23Maggio\EsTest2\bin\Debug\net9.0\EsTest2.runtimeconfig.json
+C:\Users\zxioo\Desktop\Test23Maggio\EsTest2\bin\Debug\net9.0\EsTest2.dll
+C:\Users\zxioo\Desktop\Test23Maggio\EsTest2\bin\Debug\net9.0\EsTest2.pdb
+C:\Users\zxioo\Desktop\Test23Maggio\EsTest2\obj\Debug\net9.0\EsTest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxioo\Desktop\Test23Maggio\EsTest2\obj\Debug\net9.0\EsTest2.AssemblyInfoInputs.cache
+C:\Users\zxioo\Desktop\Test23Maggio\EsTest2\obj\Debug\net9.0\EsTest2.AssemblyInfo.cs
+C:\Users\zxioo\Desktop\Test23Maggio\EsTest2\obj\Debug\net9.0\EsTest2.csproj.CoreCompileInputs.cache
+C:\Users\zxioo\Desktop\Test23Maggio\EsTest2\obj\Debug\net9.0\EsTest2.dll
+C:\Users\zxioo\Desktop\Test23Maggio\EsTest2\obj\Debug\net9.0\refint\EsTest2.dll
+C:\Users\zxioo\Desktop\Test23Maggio\EsTest2\obj\Debug\net9.0\EsTest2.pdb
+C:\Users\zxioo\Desktop\Test23Maggio\EsTest2\obj\Debug\net9.0\EsTest2.genruntimeconfig.cache
+C:\Users\zxioo\Desktop\Test23Maggio\EsTest2\obj\Debug\net9.0\ref\EsTest2.dll
