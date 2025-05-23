@@ -1,0 +1,14 @@
+C:\Users\zxioo\Desktop\c#\progetti\esercizi23maggio\EsercizioOperatore\bin\Debug\net9.0\EsercizioOperatore.exe
+C:\Users\zxioo\Desktop\c#\progetti\esercizi23maggio\EsercizioOperatore\bin\Debug\net9.0\EsercizioOperatore.deps.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi23maggio\EsercizioOperatore\bin\Debug\net9.0\EsercizioOperatore.runtimeconfig.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi23maggio\EsercizioOperatore\bin\Debug\net9.0\EsercizioOperatore.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi23maggio\EsercizioOperatore\bin\Debug\net9.0\EsercizioOperatore.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi23maggio\EsercizioOperatore\obj\Debug\net9.0\EsercizioOperatore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxioo\Desktop\c#\progetti\esercizi23maggio\EsercizioOperatore\obj\Debug\net9.0\EsercizioOperatore.AssemblyInfoInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi23maggio\EsercizioOperatore\obj\Debug\net9.0\EsercizioOperatore.AssemblyInfo.cs
+C:\Users\zxioo\Desktop\c#\progetti\esercizi23maggio\EsercizioOperatore\obj\Debug\net9.0\EsercizioOperatore.csproj.CoreCompileInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi23maggio\EsercizioOperatore\obj\Debug\net9.0\EsercizioOperatore.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi23maggio\EsercizioOperatore\obj\Debug\net9.0\refint\EsercizioOperatore.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi23maggio\EsercizioOperatore\obj\Debug\net9.0\EsercizioOperatore.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi23maggio\EsercizioOperatore\obj\Debug\net9.0\EsercizioOperatore.genruntimeconfig.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi23maggio\EsercizioOperatore\obj\Debug\net9.0\ref\EsercizioOperatore.dll
