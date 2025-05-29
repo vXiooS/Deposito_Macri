@@ -1,0 +1,14 @@
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioDecoratorFactory\bin\Debug\net9.0\EsercizioDecoratorFactory.exe
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioDecoratorFactory\bin\Debug\net9.0\EsercizioDecoratorFactory.deps.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioDecoratorFactory\bin\Debug\net9.0\EsercizioDecoratorFactory.runtimeconfig.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioDecoratorFactory\bin\Debug\net9.0\EsercizioDecoratorFactory.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioDecoratorFactory\bin\Debug\net9.0\EsercizioDecoratorFactory.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioDecoratorFactory\obj\Debug\net9.0\EsercizioDecoratorFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioDecoratorFactory\obj\Debug\net9.0\EsercizioDecoratorFactory.AssemblyInfoInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioDecoratorFactory\obj\Debug\net9.0\EsercizioDecoratorFactory.AssemblyInfo.cs
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioDecoratorFactory\obj\Debug\net9.0\EsercizioDecoratorFactory.csproj.CoreCompileInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioDecoratorFactory\obj\Debug\net9.0\EsercizioDecoratorFactory.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioDecoratorFactory\obj\Debug\net9.0\refint\EsercizioDecoratorFactory.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioDecoratorFactory\obj\Debug\net9.0\EsercizioDecoratorFactory.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioDecoratorFactory\obj\Debug\net9.0\EsercizioDecoratorFactory.genruntimeconfig.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioDecoratorFactory\obj\Debug\net9.0\ref\EsercizioDecoratorFactory.dll
