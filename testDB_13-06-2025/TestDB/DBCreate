@@ -1,0 +1,56 @@
+create database agenzia_viaggi;
+use agenzia_viaggi;
+
+create table utente (
+	utente_id int Primary Key auto_increment,
+	nome varchar(100),
+	cognome varchar(100),
+	email varchar(100) UNIQUE NOT NULL
+);  
+
+create table userlogin (
+	utente_id int unique,
+	foreign key (utente_id) references utente(utente_id),
+	username varchar(100) not null,
+	password_hash varchar(255) not null 
+);
+
+
+
+create table paese_destinazione (
+	paese_id int Primary Key auto_increment,
+	nome varchar (100)
+);
+
+create table citta_destinazione (
+	citta_id int Primary Key auto_increment,
+    nome varchar (100),
+    paese_id int,
+    foreign key (paese_id) references paese_destinazione(paese_id)
+);
+
+create table location (
+	location_id int Primary Key auto_increment,
+    nome varchar (100),
+    descrizione varchar(255),
+    citta_id int,
+    foreign key (citta_id) references citta_destinazione(citta_id)
+);
+
+create table prenotazione (
+	prenotazione_id int Primary Key auto_increment,
+    utente_id int,
+	foreign key (utente_id) references utente(utente_id),
+    location_id int,
+    foreign key (location_id) references location(location_id),
+    data_prenotazione datetime default now()
+);
+
+Create table pagamento(
+	pagamento_id int primary key auto_increment,
+	utente_id int, 
+	prenotazione_id int,
+	importo float,
+	foreign key (utente_id) references utente(utente_id),
+	foreign key (prenotazione_id) references prenotazione(prenotazione_id)
+);
