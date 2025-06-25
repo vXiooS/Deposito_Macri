@@ -1,0 +1,14 @@
+C:\Users\zxioo\Desktop\c#\progetti\esercizi22maggio\EsercizioIncapsulamento2\bin\Debug\net9.0\EsercizioIncapsulamento2.exe
+C:\Users\zxioo\Desktop\c#\progetti\esercizi22maggio\EsercizioIncapsulamento2\bin\Debug\net9.0\EsercizioIncapsulamento2.deps.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi22maggio\EsercizioIncapsulamento2\bin\Debug\net9.0\EsercizioIncapsulamento2.runtimeconfig.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi22maggio\EsercizioIncapsulamento2\bin\Debug\net9.0\EsercizioIncapsulamento2.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi22maggio\EsercizioIncapsulamento2\bin\Debug\net9.0\EsercizioIncapsulamento2.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi22maggio\EsercizioIncapsulamento2\obj\Debug\net9.0\EsercizioIncapsulamento2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxioo\Desktop\c#\progetti\esercizi22maggio\EsercizioIncapsulamento2\obj\Debug\net9.0\EsercizioIncapsulamento2.AssemblyInfoInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi22maggio\EsercizioIncapsulamento2\obj\Debug\net9.0\EsercizioIncapsulamento2.AssemblyInfo.cs
+C:\Users\zxioo\Desktop\c#\progetti\esercizi22maggio\EsercizioIncapsulamento2\obj\Debug\net9.0\EsercizioIncapsulamento2.csproj.CoreCompileInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi22maggio\EsercizioIncapsulamento2\obj\Debug\net9.0\EsercizioIncapsulamento2.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi22maggio\EsercizioIncapsulamento2\obj\Debug\net9.0\refint\EsercizioIncapsulamento2.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi22maggio\EsercizioIncapsulamento2\obj\Debug\net9.0\EsercizioIncapsulamento2.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi22maggio\EsercizioIncapsulamento2\obj\Debug\net9.0\EsercizioIncapsulamento2.genruntimeconfig.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi22maggio\EsercizioIncapsulamento2\obj\Debug\net9.0\ref\EsercizioIncapsulamento2.dll

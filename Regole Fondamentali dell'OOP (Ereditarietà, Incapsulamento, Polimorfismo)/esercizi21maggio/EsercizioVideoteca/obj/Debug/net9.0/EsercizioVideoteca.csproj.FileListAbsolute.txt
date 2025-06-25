@@ -1,0 +1,14 @@
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVideoteca\obj\Debug\net9.0\EsercizioVideoteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVideoteca\obj\Debug\net9.0\EsercizioVideoteca.AssemblyInfoInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVideoteca\obj\Debug\net9.0\EsercizioVideoteca.AssemblyInfo.cs
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVideoteca\obj\Debug\net9.0\EsercizioVideoteca.csproj.CoreCompileInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVideoteca\bin\Debug\net9.0\EsercizioVideoteca.exe
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVideoteca\bin\Debug\net9.0\EsercizioVideoteca.deps.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVideoteca\bin\Debug\net9.0\EsercizioVideoteca.runtimeconfig.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVideoteca\bin\Debug\net9.0\EsercizioVideoteca.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVideoteca\bin\Debug\net9.0\EsercizioVideoteca.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVideoteca\obj\Debug\net9.0\EsercizioVideoteca.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVideoteca\obj\Debug\net9.0\refint\EsercizioVideoteca.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVideoteca\obj\Debug\net9.0\EsercizioVideoteca.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVideoteca\obj\Debug\net9.0\EsercizioVideoteca.genruntimeconfig.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi21maggio\EsercizioVideoteca\obj\Debug\net9.0\ref\EsercizioVideoteca.dll

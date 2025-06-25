@@ -1,0 +1,14 @@
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioObserver1\bin\Debug\net9.0\EsercizioObserver1.exe
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioObserver1\bin\Debug\net9.0\EsercizioObserver1.deps.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioObserver1\bin\Debug\net9.0\EsercizioObserver1.runtimeconfig.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioObserver1\bin\Debug\net9.0\EsercizioObserver1.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioObserver1\bin\Debug\net9.0\EsercizioObserver1.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioObserver1\obj\Debug\net9.0\EsercizioObserver1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioObserver1\obj\Debug\net9.0\EsercizioObserver1.AssemblyInfoInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioObserver1\obj\Debug\net9.0\EsercizioObserver1.AssemblyInfo.cs
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioObserver1\obj\Debug\net9.0\EsercizioObserver1.csproj.CoreCompileInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioObserver1\obj\Debug\net9.0\EsercizioObserver1.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioObserver1\obj\Debug\net9.0\refint\EsercizioObserver1.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioObserver1\obj\Debug\net9.0\EsercizioObserver1.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioObserver1\obj\Debug\net9.0\EsercizioObserver1.genruntimeconfig.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi29maggio\EsercizioObserver1\obj\Debug\net9.0\ref\EsercizioObserver1.dll

@@ -1,0 +1,14 @@
+C:\Users\zxioo\Desktop\c#\progetti\esercizi30maggio\EsercizioStrategy1\bin\Debug\net9.0\EsercizioStrategy1.exe
+C:\Users\zxioo\Desktop\c#\progetti\esercizi30maggio\EsercizioStrategy1\bin\Debug\net9.0\EsercizioStrategy1.deps.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi30maggio\EsercizioStrategy1\bin\Debug\net9.0\EsercizioStrategy1.runtimeconfig.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi30maggio\EsercizioStrategy1\bin\Debug\net9.0\EsercizioStrategy1.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi30maggio\EsercizioStrategy1\bin\Debug\net9.0\EsercizioStrategy1.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi30maggio\EsercizioStrategy1\obj\Debug\net9.0\EsercizioStrategy1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxioo\Desktop\c#\progetti\esercizi30maggio\EsercizioStrategy1\obj\Debug\net9.0\EsercizioStrategy1.AssemblyInfoInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi30maggio\EsercizioStrategy1\obj\Debug\net9.0\EsercizioStrategy1.AssemblyInfo.cs
+C:\Users\zxioo\Desktop\c#\progetti\esercizi30maggio\EsercizioStrategy1\obj\Debug\net9.0\EsercizioStrategy1.csproj.CoreCompileInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi30maggio\EsercizioStrategy1\obj\Debug\net9.0\EsercizioStrategy1.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi30maggio\EsercizioStrategy1\obj\Debug\net9.0\refint\EsercizioStrategy1.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi30maggio\EsercizioStrategy1\obj\Debug\net9.0\EsercizioStrategy1.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi30maggio\EsercizioStrategy1\obj\Debug\net9.0\EsercizioStrategy1.genruntimeconfig.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi30maggio\EsercizioStrategy1\obj\Debug\net9.0\ref\EsercizioStrategy1.dll

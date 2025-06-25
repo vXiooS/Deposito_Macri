@@ -1,0 +1,14 @@
+C:\Users\zxioo\Desktop\c#\progetti\esercizi27maggio\EsercizioSingleton2\bin\Debug\net9.0\EsercizioSingleton2.exe
+C:\Users\zxioo\Desktop\c#\progetti\esercizi27maggio\EsercizioSingleton2\bin\Debug\net9.0\EsercizioSingleton2.deps.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi27maggio\EsercizioSingleton2\bin\Debug\net9.0\EsercizioSingleton2.runtimeconfig.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi27maggio\EsercizioSingleton2\bin\Debug\net9.0\EsercizioSingleton2.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi27maggio\EsercizioSingleton2\bin\Debug\net9.0\EsercizioSingleton2.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi27maggio\EsercizioSingleton2\obj\Debug\net9.0\EsercizioSingleton2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxioo\Desktop\c#\progetti\esercizi27maggio\EsercizioSingleton2\obj\Debug\net9.0\EsercizioSingleton2.AssemblyInfoInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi27maggio\EsercizioSingleton2\obj\Debug\net9.0\EsercizioSingleton2.AssemblyInfo.cs
+C:\Users\zxioo\Desktop\c#\progetti\esercizi27maggio\EsercizioSingleton2\obj\Debug\net9.0\EsercizioSingleton2.csproj.CoreCompileInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi27maggio\EsercizioSingleton2\obj\Debug\net9.0\EsercizioSingleton2.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi27maggio\EsercizioSingleton2\obj\Debug\net9.0\refint\EsercizioSingleton2.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi27maggio\EsercizioSingleton2\obj\Debug\net9.0\EsercizioSingleton2.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi27maggio\EsercizioSingleton2\obj\Debug\net9.0\EsercizioSingleton2.genruntimeconfig.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi27maggio\EsercizioSingleton2\obj\Debug\net9.0\ref\EsercizioSingleton2.dll

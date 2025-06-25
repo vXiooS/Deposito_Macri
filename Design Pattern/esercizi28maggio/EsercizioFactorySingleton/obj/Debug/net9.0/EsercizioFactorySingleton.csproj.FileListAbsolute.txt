@@ -1,0 +1,14 @@
+C:\Users\zxioo\Desktop\c#\progetti\esercizi28maggio\EsercizioFactorySingleton\bin\Debug\net9.0\EsercizioFactorySingleton.exe
+C:\Users\zxioo\Desktop\c#\progetti\esercizi28maggio\EsercizioFactorySingleton\bin\Debug\net9.0\EsercizioFactorySingleton.deps.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi28maggio\EsercizioFactorySingleton\bin\Debug\net9.0\EsercizioFactorySingleton.runtimeconfig.json
+C:\Users\zxioo\Desktop\c#\progetti\esercizi28maggio\EsercizioFactorySingleton\bin\Debug\net9.0\EsercizioFactorySingleton.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi28maggio\EsercizioFactorySingleton\bin\Debug\net9.0\EsercizioFactorySingleton.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi28maggio\EsercizioFactorySingleton\obj\Debug\net9.0\EsercizioFactorySingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxioo\Desktop\c#\progetti\esercizi28maggio\EsercizioFactorySingleton\obj\Debug\net9.0\EsercizioFactorySingleton.AssemblyInfoInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi28maggio\EsercizioFactorySingleton\obj\Debug\net9.0\EsercizioFactorySingleton.AssemblyInfo.cs
+C:\Users\zxioo\Desktop\c#\progetti\esercizi28maggio\EsercizioFactorySingleton\obj\Debug\net9.0\EsercizioFactorySingleton.csproj.CoreCompileInputs.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi28maggio\EsercizioFactorySingleton\obj\Debug\net9.0\EsercizioFactorySingleton.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi28maggio\EsercizioFactorySingleton\obj\Debug\net9.0\refint\EsercizioFactorySingleton.dll
+C:\Users\zxioo\Desktop\c#\progetti\esercizi28maggio\EsercizioFactorySingleton\obj\Debug\net9.0\EsercizioFactorySingleton.pdb
+C:\Users\zxioo\Desktop\c#\progetti\esercizi28maggio\EsercizioFactorySingleton\obj\Debug\net9.0\EsercizioFactorySingleton.genruntimeconfig.cache
+C:\Users\zxioo\Desktop\c#\progetti\esercizi28maggio\EsercizioFactorySingleton\obj\Debug\net9.0\ref\EsercizioFactorySingleton.dll
